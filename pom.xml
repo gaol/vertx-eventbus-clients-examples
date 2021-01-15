@@ -78,7 +78,9 @@
 
   <modules>
     <module>tcp-bridge</module>
+    <module>sockjs-bridge</module>
     <module>joke-teller</module>
+    <module>stock-reporter</module>
   </modules>
 
   <build>
