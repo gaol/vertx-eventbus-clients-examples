@@ -8,7 +8,7 @@ import java.util.Timer;
 import java.util.TimerTask;
 
 /**
- * This APP tries to retrieve random jokes from public API then publish to a Vert.x EventBus address.
+ * This APP tries to generate random jokes from the joke store(jokes.json) then publish to a Vert.x EventBus address.
  */
 public class JokeTeller {
 
